@@ -161,11 +161,6 @@ color:black;
 }
 
 
-@keyframes slider{
-   0%{transform: translateX(0%);}
-   }
-
-
 .search{
    display:flex;
    justify-content:center;
